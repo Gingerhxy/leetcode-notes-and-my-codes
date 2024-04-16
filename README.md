@@ -1,10 +1,8 @@
 # LeetCode 算法笔记（LeetCode-Notes）
 
-## 1. 开源初衷
+## 1. 数据结构与算法
 
-在互联网行业相关的技术面试中，算法和数据结构知识往往是重点考察的内容。众多知名互联网公司喜欢在面试中考察 LeetCode 上的算法题目，通常需要面试者对给定问题进行深入分析并提供解题思路。有时候，面试官还会要求面试者评估相关算法的时间复杂度和空间复杂度。面试官通过检验面试者对常用算法的熟悉程度和实现能力的方式，从而评估面试者解决实际问题的思维能力水平。因此，对于广大面试者而言，无论是面试国内还是国外的知名互联网公司，通过刷 LeetCode 题目，深入理解算法知识，对拿到一个理想公司的优秀 Offer 都是有帮助的。
-
-为了帮助大家，尤其是零基础或者希望全面学习算法与数据结构基础知识的同学，我们开源了 **「LeetCode 算法笔记」** 教程。该教程以基础的数据结构和算法为起点，系统讲解相关概念和知识点，再针对不同分类的数据结构和算法，从 LeetCode 平台精选出 200 多道经典算法与数据结构题目，进行具体题目的讲解分析。让学习者可以通过「算法基础理论学习」和「编程实战学习」相结合的方式，彻底掌握算法知识。
+跟着Datewhale的开源项目学习数据结构与算法，打算先用python练习一遍，等掌握C++ 后，再使用C++ 练习一边。同时存放我刷的另外的一些算法题。
 
 ## 2. 项目简介
 
@@ -125,25 +123,3 @@
 | LeetCode 题解（字典序排序） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/solutions/Solutions-List)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/solutions/Solutions-List.md) |
 | LeetCode 题解（按分类排序） | [网页链接](https://datawhalechina.github.io/leetcode-notes/#/keys/solutions/Categories-List)、[Github 链接](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/keys/solutions/Categories-List.md) |
 
-## 致谢
-
-### 贡献者名单
-
-| 姓名                                  | 职责                          | 简介                        | 联系          |
-| :------------------------------------ | :---------------------------- | :-------------------------- | ------------- |
-| [杨世超](https://github.com/itcharge) | 项目负责人，第 01~07 章节内容 | https://github.com/itcharge | i@itcharge.cn |
-
-### 其他
-
-1. 特别感谢 [@LSGOMYP](https://github.com/LSGOMYP)、[@Sm1les](https://github.com/Sm1les) 对本项目的帮助与支持。
-
-## 关注我们
-
-<div align=center>
-<p>扫描下方二维码关注公众号：Datawhale</p>
-<img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
-</div>
-
-## LICENSE
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a><br/>本作品采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名 - 非商业性使用 - 相同方式共享 4.0 国际许可协议</a> 进行许可。
